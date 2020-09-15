@@ -1,0 +1,22 @@
+---
+title: "Reproducibilidad"
+date: "2016-07-06"
+---
+
+<br>
+
+- Read our article on [‘Reproducible Science: What, Why, How’](http://www.revistaecosistemas.net/index.php/ecosistemas/article/download/1178/973) (in Spanish)
+
+- Watch video: [Non-reproducible workflows: a horror movie](https://youtu.be/s3JldKoA0zw)
+
+- Links to many [resources and tutorials](https://github.com/ecoinfAEET/Reproducibilidad/blob/master/Recursos.Rmd) about reproducible research
+
+- Come to our workshops at MEDECOS-AEET meeting
+
+
+<br>
+
+```{r out.width='100%', fig.height=1, echo=FALSE}
+knitr::include_graphics("ecoinf_10.jpg")
+```
+

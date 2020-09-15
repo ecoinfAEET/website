@@ -1,0 +1,115 @@
+---
+title: "Miembros"
+---
+
+Miembros del [grupo de Ecoinformática](http://www.aeet.org/es/gruposdetrabajo/ecoinformatica.html) de la [Asociación Española de Ecología Terrestre (AEET)](http://www.aeet.org/). 
+
+Para darte de alta rellena tus datos [aquí](https://docs.google.com/forms/d/e/1FAIpQLScCIlXvN2LtOkj1MNFPK-UzTfkK8jg5ZMXT0OgjyUUJdndo2Q/viewform?c=0&w=1). Si quieres actualizar o corregir un error en los datos por favor abre un 'issue' [en el repo](https://github.com/ecoinfAEET/website), haz un 'pull request' sobre el fichero de datos ([MembersInfo.csv](https://github.com/ecoinfAEET/website/blob/master/MembersInfo.csv)) o escribe a ecoinf.aeet@gmail.com.
+
+<br>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=FALSE, message=FALSE)
+```
+
+```{r}
+library(dplyr)
+library(DT)
+```
+
+
+```{r}
+# library(googledrive)
+# requires authentication
+# drive_download(file = as_id("1InBc8vpbZiQS9Bs8dDd2DPft8kJq4z0M7n0UeVPbP8g"),
+#                path = "Formdata.csv", type = "csv", overwrite = TRUE)
+
+formdata <- gsheet::gsheet2tbl("https://docs.google.com/spreadsheets/d/1InBc8vpbZiQS9Bs8dDd2DPft8kJq4z0M7n0UeVPbP8g/edit?usp=sharing")
+
+allmembers <- readr::read_csv("MembersInfo.csv")
+
+## add new members to membersinfo.csv
+newmembers <- dplyr::filter(formdata, !Timestamp %in% allmembers$Timestamp)
+if (nrow(newmembers) > 0) {
+  newmembers$lat <- NA
+  newmembers$lon <- NA
+  stopifnot(ncol(newmembers) == ncol(allmembers))
+  allmembers <- dplyr::bind_rows(allmembers, newmembers)
+}
+
+
+## get locations for map
+# library(opencage)  # requires free API key
+#
+# nocoords <- dplyr::filter(allmembers, is.na(lat) | is.na(lon)) %>%
+#   dplyr::select(`Afiliación`) %>%
+#   distinct()
+#
+# georef <- lapply(nocoords$Afiliación, opencage_forward, language = "es",
+#                  limit = 1, countrycode = "ES",
+#                  no_annotations = TRUE, no_record = TRUE,
+#                  add_request = FALSE)
+# nocoords$lon <- unlist(lapply(georef, function(x) {y <- x$results$geometry.lng; y[is.null(y)] <- NA; y}))
+# nocoords$lat <- unlist(lapply(georef, function(x) {y <- x$results$geometry.lat; y[is.null(y)] <- NA; y}))
+#
+#
+# allmembers <- allmembers %>%
+#   dplyr::filter(is.na(lat) | is.na(lon)) %>%
+#   dplyr::select(-lon, -lat) %>%
+#   left_join(nocoords, by = "Afiliación") %>%
+#   bind_rows(dplyr::filter(allmembers, !is.na(lat)))
+
+
+
+readr::write_csv(allmembers, "MembersInfo.csv")
+```
+
+
+```{r}
+members <- readr::read_csv("MembersInfo.csv")
+members <- dplyr::arrange(members, Nombre)
+```
+
+
+```{r}
+datos <- members %>%
+  rename(Keywords = `Palabras clave tema de investigación (max. 6)`,
+         Intereses = `Interés profesional dentro del grupo (max. 4 intereses)`,
+         Web = `Pagina web`,
+         GitHub = `Cuenta de GitHub`,
+         Twitter = `Cuenta de Twitter`) %>%
+  dplyr::select(Nombre, `Afiliación`, Keywords, Intereses, Web, GitHub, Twitter, lon, lat)
+
+## Create personal link
+# Use Web, otherwise twitter, otherwise GitHub
+datos$Twitter <- gsub("@", "", datos$Twitter)
+datos <- datos %>%
+  mutate(link = ifelse(!is.na(Web), Web, NA)) %>%
+  mutate(link = ifelse(is.na(Web) & !is.na(Twitter), paste0("https://twitter.com/", Twitter), link)) %>%
+  mutate(link = ifelse(is.na(Web) & is.na(Twitter) & !is.na(GitHub), paste0("https://github.com/", GitHub), link))
+
+datos <- datos %>%
+  mutate(Name.linked = ifelse(!is.na(link), 
+                              paste("<a href='", link, "'", ' target="_blank">', 
+                                    Nombre, "</a>", sep = ""), Nombre)) 
+
+
+```
+
+
+```{r}
+datos.dt <- datos %>%
+  dplyr::select(Name.linked, `Afiliación`, Keywords, Intereses) %>%
+  rename(Nombre = Name.linked)
+
+datatable(datos.dt, escape = FALSE, rownames = FALSE)
+```
+
+Última actualización: `r Sys.Date()`
+
+<br>
+
+```{r out.width='100%', fig.height=1, echo=FALSE}
+knitr::include_graphics("ecoinf_10.jpg")
+```
+

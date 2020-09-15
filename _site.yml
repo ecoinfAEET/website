@@ -1,0 +1,35 @@
+name: "ecoinformatica-aeet"
+output_dir: "docs"
+output:
+  html_document:
+    theme: sandstone
+navbar:
+  title: "Ecoinformática-AEET"
+  left:
+    - text: ""
+      icon: fa-home
+      href: index.html
+    - text: "Miembros"
+      href: miembros.html
+    - text: "Notas Ecoinformáticas"
+      href: notas-ecoinformaticas.html
+    - text: "Actividades"
+      menu:
+        - text: "Symposium 2017"
+          href: activ_symposium_2017.html
+        - text: "Reproducibilidad"
+          href: activ_reproducibilidad.html
+        - text: "Actividades MEDECOS 2017"
+          href: activ_medecos2017.html
+
+
+  right:
+    - icon: fa-users
+      href: https://groups.google.com/forum/#!forum/ecoinformatica_aeet
+    - icon: ion-social-twitter
+      href: https://twitter.com/ecoinf_aeet
+    - icon: ion-social-github
+      href: https://github.com/ecoinfaeet
+    - icon: fa-envelope
+      href: mailto:ecoinf.aeet@gmail.com
+
