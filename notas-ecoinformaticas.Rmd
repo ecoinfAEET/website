@@ -24,6 +24,8 @@ La sección de Notas Ecoinformáticas está coordinada por [Nacho Bartomeus](htt
 
 - [Estadística circular aplicada a la Ecología](https://doi.org/10.7818/ECOS.1995)
 
+- [Compartiendo datos en ecología: cómo añadir más valor a los datos](https://doi.org/10.7818/ECOS.1838)
+
 - [Cómo crear paquetes en R](https://doi.org/10.7818/ECOS.1948)
 
 - [Cómo escribir funciones en R](https://doi.org/10.7818/ECOS.1880)
