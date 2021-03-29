@@ -93,11 +93,11 @@ datos <- datos %>%
                               paste("<a href='", link, "'", ' target="_blank">', 
                                     Nombre, "</a>", sep = ""), Nombre)) 
 
-## Get picture from twitter profile
-# https://stackoverflow.com/a/62263395
+## Get picture from GitHub profile
 datos <- datos %>%
-  mutate(Photo = paste0("<img src='https://unavatar.now.sh/twitter/", Twitter, "' height='60' width='60'></img>")) %>%
-  mutate(Photo = ifelse(is.na(Twitter), NA, Photo))
+  mutate(Photo = paste0("<img src='https://github.com/", GitHub, ".png", 
+                        "' height='60' width='60'></img>")) %>%
+  mutate(Photo = ifelse(is.na(GitHub), NA, Photo))
 
 ```
 
