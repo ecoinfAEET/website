@@ -22,6 +22,8 @@ La sección de Notas Ecoinformáticas está coordinada por [Nacho Bartomeus](htt
 
 ## Notas Ecoinformáticas publicadas {#notas-publicadas}
 
+- [Quince consejos para mejorar nuestro código y flujo de trabajo con R](https://doi.org/10.7818/ECOS.2129)
+
 - [Estadística circular aplicada a la Ecología](https://doi.org/10.7818/ECOS.1995)
 
 - [Compartiendo datos en ecología: cómo añadir más valor a los datos](https://doi.org/10.7818/ECOS.1838)
