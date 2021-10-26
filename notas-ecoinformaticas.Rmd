@@ -24,6 +24,8 @@ La sección de Notas Ecoinformáticas está coordinada por [Nacho Bartomeus](htt
 
 ## Notas Ecoinformáticas publicadas {#notas-publicadas}
 
+- [Cómo aplicar la cienciometría a la investigación ecológica](https://doi.org/10.7818/ECOS.2256)
+
 - [Quince consejos para mejorar nuestro código y flujo de trabajo con R](https://doi.org/10.7818/ECOS.2129)
 
 - [Estadística circular aplicada a la Ecología](https://doi.org/10.7818/ECOS.1995)
