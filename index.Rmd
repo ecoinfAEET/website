@@ -42,7 +42,7 @@ Global (sin limitación geográfica). Tampoco existe limitación temática: se i
 
 - Publicación de [notas ecoinformáticas](notas-ecoinformaticas.html) en la revista *Ecosistemas*.
 
-- Intercambio de experiencias y conocimientos a través de la [lista de correo](https://groups.google.com/forum/#!forum/ecoinformatica_aeet), [twitter](https://twitter.com/ecoinf_aeet), etc.
+- Intercambio de experiencias y conocimientos a través de [Slack](https://ecoinformatica-aeet.slack.com), la [lista de correo](https://groups.google.com/forum/#!forum/ecoinformatica_aeet), [twitter](https://twitter.com/ecoinf_aeet), etc.
 
 <br>
 
@@ -63,7 +63,7 @@ Global (sin limitación geográfica). Tampoco existe limitación temática: se i
 
 La participación activa es un pilar fundamental dentro de este grupo de trabajo. Para ello hemos puesto a disposición diferentes canales de comunicación:
 
-- La principal vía de comunicación entre nosotros es Slack. Ahí compartimos recursos, preguntamos dudas, organizamos actividades, etc. Cualquiera puede unirse. El enlace para unirse es https://join.slack.com/t/slack-18f2510/shared_invite/zt-xr2c6ng5-pAf5tDf08_g0I4TWxFsAwQ.
+- La principal vía de comunicación entre nosotros es [Slack](https://ecoinformatica-aeet.slack.com). Ahí compartimos recursos, preguntamos dudas, organizamos actividades, etc. El enlace para unirse es https://join.slack.com/t/slack-18f2510/shared_invite/zt-xr2c6ng5-pAf5tDf08_g0I4TWxFsAwQ.
 
 - Date de alta en nuestro [directorio](miembros.html). 
 
