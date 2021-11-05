@@ -5,7 +5,7 @@ date: "2016-07-06"
 
 <br>
 
-- Read our article on [‘Reproducible Science: What, Why, How’](http://www.revistaecosistemas.net/index.php/ecosistemas/article/download/1178/973) (in Spanish)
+- Read our article on [‘Reproducible Science: What, Why, How’](https://doi.org/10.7818/ECOS.2016.25-2.11) (in Spanish)
 
 - Watch video: [Non-reproducible workflows: a horror movie](https://youtu.be/s3JldKoA0zw)
 
