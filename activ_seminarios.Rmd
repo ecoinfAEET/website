@@ -4,21 +4,33 @@ title: "Seminarios"
 
 <br>
 
--   **Seminario 1:** [Búsqueda, descarga y limpieza de datos de biodiversidad desde GBIF. Una odisea ecoinformática](https://www.youtube.com/watch?v=VSUEi50tkAI).
+-   **Seminario 1:** [Búsqueda, descarga y limpieza de datos de biodiversidad desde GBIF. Una odisea ecoinformática](https://www.youtube.com/watch?v=VSUEi50tkAI)
 
-    -   Impartido por: Carlos Lara Romero, Universidad Rey Juan Carlos, Madrid.
+    -   Impartido por: Carlos Lara Romero, Universidad Rey Juan Carlos, Madrid
 
     -   Resumen: La misión cardinal de GBIF es dar acceso, de manera libre y gratuita, a datos de biodiversidad para apoyar la investigación científica y fomentar la conservación biológica. La información disponible en GBIF se encuentra estructurada en diversos tipos de datos y metadatos. Esta estructura es uno de los mayores potenciales de GBIF, pero también dificulta el proceso de descarga de la información. El objetivo del seminario es dotar a los asistentes de la información y herramientas para desarrollar con éxito el proceso de búsqueda, descarga y limpieza de datos desde GBIF a través de su interfaz web y del paquete de R "rgbif". Pero, sobre todo, con el seminario pretendo mostrar mi proceso de aprendizaje del lenguaje de programación R. Una odisea llena de frustración y fallo. De debilidad. Pero también de éxitos, satisfacción y crecimiento personal y profesional.
 
     -   Fecha: 31 Enero 2022
 
--   **Seminario 2:** [Estadística bayesiana: principios, teorema de bayes y su aplicación](https://www.youtube.com/watch?v=usB7reMJxLU).
+-   **Seminario 2:** [Estadística bayesiana: principios, teorema de bayes y su aplicación](https://www.youtube.com/watch?v=usB7reMJxLU)
 
     -   Impartido por: Paloma Ruiz-Benito e Ignacio Morales-Castilla, Universidad de Alcalá (UAH), Madrid - grupo de EcoBayesUAH
 
     -   Resumen: Repaso de los beneficios en el uso de una aproximación de la estadística bayesiana, explicación general del teorema de Bayes, y uso de ejemplos conceptuales y prácticos.
 
     -   Fecha: 28 Febrero 2022
+
+-   **Seminario 3:** [Análisis de la ciencia ciudadana mediante modelos de ocupación](https://www.youtube.com/watch?v=OKEtldANpHA)
+
+    -   Impartido por: Guillermo Fandos Guzmán, Universidad Complutense de Madrid
+
+        Título: Análisis de la ciencia ciudadana mediante modelos de ocupación
+
+        Resumen: Durante este seminario vamos a ver los pasos iniciales básicos para aplicar los modelos de ocupación a los datos de ciencia ciudadana. Los modelos de ocupación nos permiten modelar conjuntamente el proceso ecológico de aparición de especies y el proceso de observación de la detección de especies, pero a su vez nos permite sacar estimas como procesos separados. Este marco analítico nos permite tener en cuenta la variación de la probabilidad de detección al estimar la presencia de las especies.
+
+    -   Link a datos y PDF: <https://drive.google.com/drive/folders/1BX1js28MS-RSMFvTHoKJJ6iDY9wGNoAw>
+
+    -   Fecha: 30 Marzo 2022
 
 <br>
 
