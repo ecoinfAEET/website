@@ -13,6 +13,8 @@ navbar:
       href: miembros.html
     - text: "Notas Ecoinformáticas"
       href: notas-ecoinformaticas.html
+    - text: "Seminarios"
+      href: activ_seminarios.html
     - text: "Actividades"
       menu:
         - text: "Symposium 2017"
@@ -21,9 +23,6 @@ navbar:
           href: activ_reproducibilidad.html
         - text: "Actividades MEDECOS 2017"
           href: activ_medecos2017.html
-        - text: "Seminarios"
-          href: activ_seminarios.html
-
 
   right:
     - icon: fa-users
