@@ -24,13 +24,25 @@ title: "Seminarios"
 
     -   Impartido por: Guillermo Fandos Guzmán, Universidad Complutense de Madrid
 
-        Título: Análisis de la ciencia ciudadana mediante modelos de ocupación
-
-        Resumen: Durante este seminario vamos a ver los pasos iniciales básicos para aplicar los modelos de ocupación a los datos de ciencia ciudadana. Los modelos de ocupación nos permiten modelar conjuntamente el proceso ecológico de aparición de especies y el proceso de observación de la detección de especies, pero a su vez nos permite sacar estimas como procesos separados. Este marco analítico nos permite tener en cuenta la variación de la probabilidad de detección al estimar la presencia de las especies.
+    -   Resumen: Durante este seminario vamos a ver los pasos iniciales básicos para aplicar los modelos de ocupación a los datos de ciencia ciudadana. Los modelos de ocupación nos permiten modelar conjuntamente el proceso ecológico de aparición de especies y el proceso de observación de la detección de especies, pero a su vez nos permite sacar estimas como procesos separados. Este marco analítico nos permite tener en cuenta la variación de la probabilidad de detección al estimar la presencia de las especies.
 
     -   Link a datos y PDF: <https://drive.google.com/drive/folders/1BX1js28MS-RSMFvTHoKJJ6iDY9wGNoAw>
 
     -   Fecha: 30 Marzo 2022
+
+-   **Seminario 4:** [Generación de visores de datos espaciales con R](https://www.youtube.com/watch?v=niPkyIrEv-k)
+
+    -   Impartido por: Antonio J. Pérez-Luque, Estación Experimental del Zaidín CSIC, Granada
+
+    -   Resumen: ¿Necesitas mostrar información espacial sobre alguna de tus investigaciones? ¿Quieres compartir con tus colaboradores las zonas de tu muestreo de una forma sencilla? En este seminario introduciremos algunas herramientas para la creación de visores espaciales sencillos y prácticos que permitan mostrar tu información espacial combinándola con otras capas de información. Para ello, utilizaremos diferentes paquetes de R, y combinándolos con leaflet (una librería JavaScript), GitHub y servicios WMS, generaremos visores espaciales de una forma sencilla.
+
+    -   Link a presentación: <https://ajpelu.github.io/visores_geograficos_r/slides.html>
+
+    -   Link a repo de GitHub: <https://github.com/ajpelu/visores_geograficos_r>
+
+    -   Mapa de ejemplo: <https://ajpelu.github.io/visores_geograficos_r_ejemplo/>
+
+    -   Fecha: 5 Mayo 2022
 
 <br>
 
