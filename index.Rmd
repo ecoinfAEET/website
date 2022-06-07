@@ -11,11 +11,11 @@ knitr::include_graphics("ecoinf_10.jpg")
 <br>
 
 La ecología actual tiene casi siempre un componente importante de computación. Desde un sencillo análisis estadístico de datos hasta la realización de simulaciones estocásticas complejas, casi todos los ecólogos necesitan interaccionar en mayor o menor medida con una computadora. Sin embargo, la formación de los ecólogos en aspectos tales como el manejo de bases de datos, análisis de datos, modelización, programación, etc. ha sido tradicionalmente muy deficiente. Esto no sólo acarrea retrasos y problemas en la ejecución de los proyectos de investigación, sino que también limita el potencial y alcance de los mismos.
- 
+
 El **grupo de trabajo de Ecoinformática** de la [Asociación Española de Ecología Terrestre (AEET)](www.aeet.org) pretende fomentar el intercambio de experiencias y conocimientos sobre cualquier aspecto relacionado con la ecoinformática, además de contribuir a la formación de los nuevos ecólogos en buenas prácticas y técnicas de computación que les permitan desarrollar al máximo sus proyectos de investigación.
 
 <br>
- 
+
 **Ámbito**
 
 Global (sin limitación geográfica). Tampoco existe limitación temática: se incluye cualquier área de la ecología (ecología teórica, análisis de datos, modelización, etc) que implique un aspecto computacional.
@@ -24,38 +24,39 @@ Global (sin limitación geográfica). Tampoco existe limitación temática: se i
 
 **Objetivos**
 
-- Promover el intercambio de experiencias y conocimientos sobre ecoinformática y computación en un sentido muy amplio, incluyendo manejo y análisis de datos, simulaciones, modelización, programación, etc.
+-   Promover el intercambio de experiencias y conocimientos sobre ecoinformática y computación en un sentido muy amplio, incluyendo manejo y análisis de datos, simulaciones, modelización, programación, etc.
 
-- Potenciar la movilidad de investigadores y la colaboración entre los integrantes del grupo de trabajo.
+-   Potenciar la movilidad de investigadores y la colaboración entre los integrantes del grupo de trabajo.
 
-- Promover la formación de los ecólogos interesados en aprender buenas prácticas y técnicas avanzadas de computación.
+-   Promover la formación de los ecólogos interesados en aprender buenas prácticas y técnicas avanzadas de computación.
 
-- Promover los principios de ciencia abierta y reproducible. 
+-   Promover los principios de ciencia abierta y reproducible.
 
 <br>
 
 **Actividades**
 
-- Organización de simposios y workshops específicos (principalmente en los congresos de la AEET).
+-   Organización de simposios y workshops específicos (principalmente en los congresos de la AEET).
 
-- Organización de cursos y talleres.
+-   Organización de cursos y talleres.
 
-- Publicación de [notas ecoinformáticas](notas-ecoinformaticas.html) en la revista *Ecosistemas*.
+-   Publicación de [notas ecoinformáticas](notas-ecoinformaticas.html) en la revista *Ecosistemas*.
 
-- Intercambio de experiencias y conocimientos a través de [Slack](https://ecoinformatica-aeet.slack.com), la [lista de correo](https://groups.google.com/forum/#!forum/ecoinformatica_aeet), [twitter](https://twitter.com/ecoinf_aeet), etc.
+-   [Seminarios mensuales](seminarios.html) sobre diversos temas relacionados con la ecoinformática.
+
+-   Intercambio de experiencias y conocimientos a través de [Slack](https://ecoinformatica-aeet.slack.com), la [lista de correo](https://groups.google.com/forum/#!forum/ecoinformatica_aeet), [twitter](https://twitter.com/ecoinf_aeet), etc.
 
 <br>
 
 **Coordinadores**
 
-- [Julen Astigarraga](https://twitter.com/j_astigarraga)
+-   [Julen Astigarraga](https://twitter.com/j_astigarraga)
 
-- [Elena Quintero](https://twitter.com/elequinter)
+-   [Elena Quintero](https://twitter.com/elequinter)
 
-- [Pedro Abellán](https://pedroabellan.wordpress.com/) 
+-   [Pedro Abellán](https://pedroabellan.wordpress.com/)
 
-- [Verónica Cruz Alonso](https://twitter.com/veruitter) 
-
+-   [Verónica Cruz Alonso](https://twitter.com/veruitter)
 
 <br>
 
@@ -63,20 +64,17 @@ Global (sin limitación geográfica). Tampoco existe limitación temática: se i
 
 La participación activa es un pilar fundamental dentro de este grupo de trabajo. Para ello hemos puesto a disposición diferentes canales de comunicación:
 
-- La principal vía de comunicación entre nosotros es [Slack](https://ecoinformatica-aeet.slack.com). Ahí compartimos recursos, preguntamos dudas, organizamos actividades, etc. El enlace para unirse es https://join.slack.com/t/ecoinformatica-aeet/shared_invite/zt-11i2zvqwl-JJsoiJAf64ee5nzjCip~LA.
+-   La principal vía de comunicación entre nosotros es [Slack](https://ecoinformatica-aeet.slack.com). Ahí compartimos recursos, preguntamos dudas, organizamos actividades, etc. El enlace para unirse es <https://join.slack.com/t/ecoinformatica-aeet/shared_invite/zt-11i2zvqwl-JJsoiJAf64ee5nzjCip~LA>.
 
-- Date de alta en nuestro [directorio](miembros.html). 
+-   Date de alta en nuestro [directorio](miembros.html).
 
-- Twitter: nuestro perfil en twitter es [ecoinf_aeet](https://twitter.com/ecoinf_aeet)
+-   Twitter: nuestro perfil en twitter es [ecoinf_aeet](https://twitter.com/ecoinf_aeet)
 
-- Correo electrónico: también puedes contactar con nosotros a través del correo electrónico: ecoinf.aeet@gmail.com
+-   Correo electrónico: también puedes contactar con nosotros a través del correo electrónico: [ecoinf.aeet\@gmail.com](mailto:ecoinf.aeet@gmail.com){.email}
 
-- Además tenemos una [lista de correo](https://groups.google.com/forum/#!forum/ecoinformatica_aeet), aunque priorizamos la comunicación via Slack. 
+-   Además tenemos una [lista de correo](https://groups.google.com/forum/#!forum/ecoinformatica_aeet), aunque priorizamos la comunicación via Slack.
 
-- También utilizamos [GitHub](https://github.com/ecoinfaeet) donde alojamos diferentes repositorios e incluso nuestra web.
-
-
-
+-   También utilizamos [GitHub](https://github.com/ecoinfaeet) donde alojamos diferentes repositorios e incluso nuestra web.
 
 <br>
 

@@ -44,6 +44,16 @@ title: "Seminarios"
 
     -   Fecha: 5 Mayo 2022
 
+-   **Seminario 5:** [Análisis de dinámicas poblacionales en R](https://www.youtube.com/watch?v=oAC7DVWAMRc)
+
+    -   Impartido por: David García-Callejas, Landcare Research New Zealand, University of Canterbury
+
+    -   Resumen: Las poblaciones de diferentes especies varían en respuesta a toda una serie de factores, y la ecología matemática ha ido desarrollando, desde hace más de un siglo, las herramientas para analizar estas dinámicas. En este seminario haremos un repaso de los fundamentos ecológicos de algunas de estas herramientas, desde modelos de crecimiento exponencial a dinámicas Lotka-Volterra, y veremos cómo implementarlas en R. Hablaremos de dinámicas de especies individuales y de especies con diferentes tipos de interacciones, repasando funciones para evaluar su estabilidad o para representarlas gráficamente.
+
+    -   Link a repo de GitHub: <https://github.com/garciacallejas/LV_dynamics>
+
+    -   Fecha: 6 Junio 2022
+
 <br>
 
 ```{r out.width='100%', fig.height=1, echo=FALSE}
