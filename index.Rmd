@@ -42,7 +42,7 @@ Global (sin limitación geográfica). Tampoco existe limitación temática: se i
 
 -   Publicación de [notas ecoinformáticas](notas-ecoinformaticas.html) en la revista *Ecosistemas*.
 
--   [Seminarios mensuales](seminarios.html) sobre diversos temas relacionados con la ecoinformática.
+-   Organización de [seminarios mensuales](seminarios.html) sobre diversos temas relacionados con la ecoinformática.
 
 -   Intercambio de experiencias y conocimientos a través de [Slack](https://ecoinformatica-aeet.slack.com), la [lista de correo](https://groups.google.com/forum/#!forum/ecoinformatica_aeet), [twitter](https://twitter.com/ecoinf_aeet), etc.
 

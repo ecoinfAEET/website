@@ -54,6 +54,16 @@ title: "Seminarios"
 
     -   Fecha: 6 Junio 2022
 
+-   **Seminario 6:** [Introducción al análisis de datos con Python](https://www.youtube.com/watch?v=0_73g05Wjgc)
+
+    -   Impartido por: Virginia Domínguez-García
+
+    -   Resumen: La programación se está volviendo más y más importante para el análisis de datos en todas las disciplinas. Aunque en ecología el lenguaje de programación más utilizado es R, en ocasiones conocer otros lenguajes puede facilitarte la vida pues diferentes librerías están más desarrolladas en uno u otro lenguaje (por ejemplo el machine learning en Python). Este taller es una introducción al uso de Python para el análisis de datos, en el que se cubrirán: la lectura (y escritura) de datos desde ficheros, la limpieza y re-estructuración de dichos datos, su análisis usando estadísticas simples, y finalmente la representación de los resultados. Para poder ir realizando los ejercicios propuestos se recomienda tener instalado Python (preferiblemente con Anaconda <https://www.anaconda.com/products/distribution>) antes de iniciar el taller, pero si las personas asistentes encuentran problemas con la instalación cubriremos esto al inicio del taller también.
+
+    -   Link a repo de GitHub: <https://github.com/domgarvir/taller_python_data>
+
+    -   Fecha: 5 Julio 2022
+
 <br>
 
 ```{r out.width='100%', fig.height=1, echo=FALSE}
