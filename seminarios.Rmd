@@ -64,6 +64,16 @@ title: "Seminarios"
 
     -   Fecha: 5 Julio 2022
 
+-   **Seminario 7:** [Integración de datos en la estima de la distribución y abundancia animal](https://www.youtube.com/watch?v=ybD4GM_OB3M)
+
+    -   Impartido por: Javier Fernández-López, CEFE - UCM (Montpellier, Francia)
+
+    -   Resumen: Cada vez más a menudo disponemos de diferentes fuentes de datos con información complementaria acerca de la abundancia o distribución de las poblaciones animales: datos de fototrampeo, conteos directos, registros de presencia oportunistas... En este seminario veremos como la integración de datos en un marco de modelización jerárquica permite combinar estas distintas fuentes en único modelo para obtener estimas de abundancias más precisas.
+
+    -   Link a repo de GitHub: <https://github.com/jabiologo/aeetSeminario>
+
+    -   Fecha: 29 Septiembre 2022
+
 <br>
 
 ```{r out.width='100%', fig.height=1, echo=FALSE}

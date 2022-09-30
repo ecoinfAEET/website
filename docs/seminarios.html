@@ -13,7 +13,7 @@
 
 <title>Seminarios</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/sandstone.min.css" rel="stylesheet" />
@@ -144,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -449,6 +453,24 @@ también.</p></li>
 href="https://github.com/domgarvir/taller_python_data"
 class="uri">https://github.com/domgarvir/taller_python_data</a></p></li>
 <li><p>Fecha: 5 Julio 2022</p></li>
+</ul></li>
+<li><p><strong>Seminario 7:</strong> <a
+href="https://www.youtube.com/watch?v=ybD4GM_OB3M">Integración de datos
+en la estima de la distribución y abundancia animal</a></p>
+<ul>
+<li><p>Impartido por: Javier Fernández-López, CEFE - UCM (Montpellier,
+Francia)</p></li>
+<li><p>Resumen: Cada vez más a menudo disponemos de diferentes fuentes
+de datos con información complementaria acerca de la abundancia o
+distribución de las poblaciones animales: datos de fototrampeo, conteos
+directos, registros de presencia oportunistas… En este seminario veremos
+como la integración de datos en un marco de modelización jerárquica
+permite combinar estas distintas fuentes en único modelo para obtener
+estimas de abundancias más precisas.</p></li>
+<li><p>Link a repo de GitHub: <a
+href="https://github.com/jabiologo/aeetSeminario"
+class="uri">https://github.com/jabiologo/aeetSeminario</a></p></li>
+<li><p>Fecha: 29 Septiembre 2022</p></li>
 </ul></li>
 </ul>
 <p><br></p>
