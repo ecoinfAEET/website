@@ -90,6 +90,18 @@ title: "Seminarios"
 
     -   Fecha: 29 Noviembre 2022
 
+-   **Seminario 10:** [Introducción a Zotero: cómo organizar nuestras referencias de forma accesible y cómo citar fácilmente en R con Quarto/RMarkdown](https://www.youtube.com/watch?v=nkEM6ny_E9U)
+
+    -   Impartido por: Darío San Segundo Molina, Universidad de Alcalá, Madrid
+
+    -   Resumen: Organizar nuestra bibliografía de una forma eficiente, fácilmente accesible e integrarla en flujos de trabajo reproducibles (p. ej. RMarkdown o Quarto) supone muchas ventajas a la hora de integrar conocimiento científico, redactar manuscritos/proyectos y compartir referencias. Zotero es una herramienta de código abierto que facilita estas tareas. En este seminario, especialmente orientado para investigadores/as de ecología en etapas tempranas, veremos brevemente las funcionalidades principales de su interfaz, sus ventajas frente a otros gestores y el funcionamiento general de citas en procesadores de texto, deteniéndonos en cómo utilizarlo junto con Quarto/RMarkdown a través del visual editor mode para facilitar un flujo de trabajo reproducible. Por último, veremos algunos recursos adicionales como el acceso a cualquier artículo desde la interfaz vía SciHub , los Zotero-Groups y la sincronización cuasi-ilimitada de archivos entre dispositivos mediante nubes de almacenamiento.
+
+    -   Link a repo de GitHub: <https://github.com/dario-ssm/zote_r_o>
+
+    -   Link a diapositivas: <https://dario-ssm.github.io/zote_r_o/#/title-slide>
+
+    -   Fecha: 20 Febrero 2023
+
 <br>
 
 ```{r out.width='100%', fig.height=1, echo=FALSE}
