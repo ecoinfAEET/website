@@ -13,7 +13,7 @@
 
 <title>Notas Ecoinformáticas</title>
 
-<script src="site_libs/header-attrs-2.18/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/sandstone.min.css" rel="stylesheet" />
@@ -181,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "\e259";
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -190,9 +190,16 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "\e258";
-  font-family: 'Glyphicons Halflings';
+  content: "&#xe258;";
   border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -352,6 +359,9 @@ Ecoinformática</a> de la <a href="http://www.aeet.org">AEET</a>.</p>
 <div id="notas-publicadas" class="section level2">
 <h2>Notas Ecoinformáticas publicadas</h2>
 <ul>
+<li><p><a href="https://doi.org/10.7818/ECOS.2527">La unión hace la
+fuerza: modelos de distribución de especies integrando diferentes
+fuentes de datos</a></p></li>
 <li><p><a href="https://doi.org/10.7818/ECOS.2332">¡Se puede entender
 cómo funcionan Git y GitHub!</a></p></li>
 <li><p><a href="https://doi.org/10.7818/ECOS.2256">Cómo aplicar la

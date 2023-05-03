@@ -21,6 +21,8 @@ La sección de Notas Ecoinformáticas está coordinada por [Nacho Bartomeus](htt
 
 ## Notas Ecoinformáticas publicadas {#notas-publicadas}
 
+-   [La unión hace la fuerza: modelos de distribución de especies integrando diferentes fuentes de datos](https://doi.org/10.7818/ECOS.2527)
+
 -   [¡Se puede entender cómo funcionan Git y GitHub!](https://doi.org/10.7818/ECOS.2332)
 
 -   [Cómo aplicar la cienciometría a la investigación ecológica](https://doi.org/10.7818/ECOS.2256)
