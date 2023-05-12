@@ -100,7 +100,7 @@ title: "Seminarios"
 
     -   Link a diapositivas: <https://dario-ssm.github.io/zote_r_o/#/title-slide>
 
-    -   Fecha: 20 Febrero 2023
+    -   Fecha: 20 Febrero 2023 
 
 <br>
 
