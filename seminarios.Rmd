@@ -100,7 +100,21 @@ title: "Seminarios"
 
     -   Link a diapositivas: <https://dario-ssm.github.io/zote_r_o/#/title-slide>
 
-    -   Fecha: 20 Febrero 2023 
+    -   Fecha: 20 Febrero 2023
+
+-   **Seminario 11:** [Introducción al uso de filogenias en Ecología. El paquete randtip como método de abordar la incompletitud filogenética](https://www.youtube.com/watch?v=C9Gyah5XES0)
+
+    -   Impartido por: Ignacio Ramos, Universidad Autónoma de Madrid
+
+    -   Resumen: La inclusión de filogenias es un aspecto clave en Ecología, puesto que trata la historia evolutiva de distintos taxones como un gradiente, y no como unidades independientes. En la primera parte de este seminario vamos a ver la importancia de incluir información filogenética en análisis ecológicos, qué oportunidades presenta, y problemáticas que conlleva. En una segunda parte se presentará una metodología para expandir filogenias incompletas utilizando información no molecular, y su aplicación a través del paquete de R *randtip*.
+
+    -   Link a repo de GitHub: <https://github.com/iramosgutierrez/randtip>
+
+    -   Link a manuscrito: <https://www.biorxiv.org/content/10.1101/2022.01.04.474924v1>
+
+    -   Link a tutorial: <https://www.biorxiv.org/content/biorxiv/early/2022/01/04/2022.01.04.474924/DC2/embed/media-2.pdf?download=false>
+
+    -   Fecha: 29 Mayo 2023
 
 <br>
 
