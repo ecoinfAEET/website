@@ -27,7 +27,7 @@ output:
     -   Resumen: Repaso de los beneficios en el uso de una aproximación de la estadística bayesiana, explicación general del teorema de Bayes, y uso de ejemplos conceptuales y prácticos.
 
     -   Fecha: 28 Febrero 2022
-    
+
 ## Seminario 3: Análisis de la ciencia ciudadana mediante modelos de ocupación
 
 -   [Análisis de la ciencia ciudadana mediante modelos de ocupación](https://www.youtube.com/watch?v=OKEtldANpHA)
@@ -141,6 +141,20 @@ output:
     -   Link a tutorial: <https://www.biorxiv.org/content/biorxiv/early/2022/01/04/2022.01.04.474924/DC2/embed/media-2.pdf?download=false>
 
     -   Fecha: 29 Mayo 2023
+
+## Seminario 12: Regímenes dinámicos ecológicos
+
+-   [Regímenes dinámicos ecológicos: identificación, caracterización y comparación](https://www.youtube.com/watch?v=Fy5YNSe-btA)
+
+    -   Impartido por: Martina Sánchez Pinillos, Université de Montpellier /  Université du Québec à Montréal (UQAM)
+
+    -   Resumen: Entender cómo cambian los ecosistemas a lo largo del tiempo es una cuestión que ha despertado gran interés entre ecólogos y naturalistas de todas las épocas. Sin embargo, caracterizar cuantitativamente las dinámicas ecológicas sigue siendo un reto debido a la gran complejidad de los sistemas ecológicos y a la falta de datos que permitan evaluar el estado de los sistemas durante largos periodos de tiempo. En este seminario, se introducirá un conjunto de análisis y métricas implementadas en R para identificar, caracterizar y comparar regímenes dinámicos a partir de grandes bases de datos.
+
+    -   Link a repo de GitHub: <https://github.com/MSPinillos/ecoregime_tutorial>
+
+    -   Link a zenodo: <https://zenodo.org/record/8388777>
+
+    -   Fecha: 28 Septiembre 2023
 
 <br>
 
