@@ -9,7 +9,7 @@ Para darte de alta rellena tus datos [aquí](https://docs.google.com/forms/d/e/1
 <br>
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo=FALSE, message=FALSE)
+knitr::opts_chunk$set(echo=FALSE, message=FALSE, warning=FALSE)
 ```
 
 ```{r, warning = F}
