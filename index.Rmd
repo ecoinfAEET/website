@@ -62,7 +62,7 @@ Global (sin limitación geográfica). Tampoco existe limitación temática: se i
 
 La participación activa es un pilar fundamental dentro de este grupo de trabajo. Para ello hemos puesto a disposición diferentes canales de comunicación:
 
--   La principal vía de comunicación entre nosotros es [Slack](https://ecoinformatica-aeet.slack.com). Ahí compartimos recursos, preguntamos dudas, organizamos actividades, etc. El enlace para unirse es <https://join.slack.com/t/ecoinformatica-aeet/shared_invite/zt-11i2zvqwl-JJsoiJAf64ee5nzjCip~LA>.
+-   La principal vía de comunicación entre nosotros es [Slack](https://ecoinformatica-aeet.slack.com). Ahí compartimos recursos, preguntamos dudas, organizamos actividades, etc.
 
 -   Date de alta en nuestro [directorio](miembros.html).
 
