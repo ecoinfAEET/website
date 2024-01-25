@@ -8,7 +8,7 @@ output:
 
 <br>
 
-## Seminario 1: Búsqueda, descarga y limpieza de datos desde GBIF
+## Seminario 1. Búsqueda, descarga y limpieza de datos desde GBIF
 
 -   [Búsqueda, descarga y limpieza de datos de biodiversidad desde GBIF. Una odisea ecoinformática](https://www.youtube.com/watch?v=VSUEi50tkAI)
 
@@ -18,7 +18,7 @@ output:
 
     -   Fecha: 31 Enero 2022
 
-## Seminario 2: Estadística bayesiana
+## Seminario 2. Estadística bayesiana
 
 -   [Estadística bayesiana: principios, teorema de bayes y su aplicación](https://www.youtube.com/watch?v=usB7reMJxLU)
 
@@ -28,7 +28,7 @@ output:
 
     -   Fecha: 28 Febrero 2022
 
-## Seminario 3: Análisis de la ciencia ciudadana mediante modelos de ocupación
+## Seminario 3. Análisis de la ciencia ciudadana mediante modelos de ocupación
 
 -   [Análisis de la ciencia ciudadana mediante modelos de ocupación](https://www.youtube.com/watch?v=OKEtldANpHA)
 
@@ -40,7 +40,7 @@ output:
 
     -   Fecha: 30 Marzo 2022
 
-## Seminario 4: Generación de visores de datos espaciales con R
+## Seminario 4. Generación de visores de datos espaciales con R
 
 -   [Generación de visores de datos espaciales con R](https://www.youtube.com/watch?v=niPkyIrEv-k)
 
@@ -56,7 +56,7 @@ output:
 
     -   Fecha: 5 Mayo 2022
 
-## Seminario 5: Análisis de dinámicas poblacionales en R
+## Seminario 5. Análisis de dinámicas poblacionales en R
 
 -   [Análisis de dinámicas poblacionales en R](https://www.youtube.com/watch?v=oAC7DVWAMRc)
 
@@ -68,7 +68,7 @@ output:
 
     -   Fecha: 6 Junio 2022
 
-## Seminario 6: Introducción a Python
+## Seminario 6. Introducción a Python
 
 -   [Introducción al análisis de datos con Python](https://www.youtube.com/watch?v=0_73g05Wjgc)
 
@@ -80,7 +80,7 @@ output:
 
     -   Fecha: 5 Julio 2022
 
-## Seminario 7: Integración de datos en la estima de la distribución y abundancia animal
+## Seminario 7. Integración de datos en la estima de la distribución y abundancia animal
 
 -   [Integración de datos en la estima de la distribución y abundancia animal](https://www.youtube.com/watch?v=ybD4GM_OB3M)
 
@@ -92,7 +92,7 @@ output:
 
     -   Fecha: 29 Septiembre 2022
 
-## Seminario 8: Introducción al análisis espacial de patrones de puntos
+## Seminario 8. Introducción al análisis espacial de patrones de puntos
 
 -   [Introducción al análisis espacial de patrones de puntos. ¿Qué hago con mis coordenadas espaciales?](https://www.youtube.com/watch?v=1ye4v3ugAfc)
 
@@ -102,7 +102,7 @@ output:
 
     -   Fecha: 24 Octubre 2022
 
-## Seminario 9: Introducción al mundo de la bioacústica
+## Seminario 9. Introducción al mundo de la bioacústica
 
 -   [Introducción al mundo de la bioacústica y aplicaciones metodológicas. ¡Escucha qué dicen tus datos!](https://www.youtube.com/watch?v=ZwKuy6E-GhE)
 
@@ -112,7 +112,7 @@ output:
 
     -   Fecha: 29 Noviembre 2022
 
-## Seminario 10: Introducción a Zotero
+## Seminario 10. Introducción a Zotero
 
 -   [Introducción a Zotero: cómo organizar nuestras referencias de forma accesible y cómo citar fácilmente en R con Quarto/RMarkdown](https://www.youtube.com/watch?v=nkEM6ny_E9U)
 
@@ -126,7 +126,7 @@ output:
 
     -   Fecha: 20 Febrero 2023
 
-## Seminario 11: Introducción al uso de filogenias
+## Seminario 11. Introducción al uso de filogenias
 
 -   [Introducción al uso de filogenias en Ecología. El paquete randtip como método de abordar la incompletitud filogenética](https://www.youtube.com/watch?v=C9Gyah5XES0)
 
@@ -142,11 +142,11 @@ output:
 
     -   Fecha: 29 Mayo 2023
 
-## Seminario 12: Regímenes dinámicos ecológicos
+## Seminario 12. Regímenes dinámicos ecológicos
 
 -   [Regímenes dinámicos ecológicos: identificación, caracterización y comparación](https://www.youtube.com/watch?v=Fy5YNSe-btA)
 
-    -   Impartido por: Martina Sánchez Pinillos, Université de Montpellier /  Université du Québec à Montréal (UQAM)
+    -   Impartido por: Martina Sánchez Pinillos, Université de Montpellier / Université du Québec à Montréal (UQAM)
 
     -   Resumen: Entender cómo cambian los ecosistemas a lo largo del tiempo es una cuestión que ha despertado gran interés entre ecólogos y naturalistas de todas las épocas. Sin embargo, caracterizar cuantitativamente las dinámicas ecológicas sigue siendo un reto debido a la gran complejidad de los sistemas ecológicos y a la falta de datos que permitan evaluar el estado de los sistemas durante largos periodos de tiempo. En este seminario, se introducirá un conjunto de análisis y métricas implementadas en R para identificar, caracterizar y comparar regímenes dinámicos a partir de grandes bases de datos.
 
@@ -155,6 +155,20 @@ output:
     -   Link a zenodo: <https://zenodo.org/record/8388777>
 
     -   Fecha: 28 Septiembre 2023
+
+## Seminario 13. labeleR: genera tus certificados y etiquetas
+
+-   [Taller de labeleR: cómo generar etiquetas científicas, certificados para eventos y mucho más en R](https://www.youtube.com/watch?v=CPimYLdDI5o)
+
+    -   Impartido por: Julia G. de Aledo, Universidad Autónoma de Madrid
+
+    -   Resumen: El paquete de R labeleR que tiene como objetivo generar etiquetas de herbario, etiquetas para distintos tipos de colecciones, certificados de asistencia y participación a eventos, acreditaciones, etc. Esta herramienta es altamente accesible y permite la generación de etiquetas y otros documentos de manera automatizada a partir de extensas bases de datos, simplificando significativamente procesos repetitivos y de larga duración. Las funciones incorporadas permiten seleccionar la base de datos de origen, introducir QRs, añadir logos y personalizar campos de contenido según cada necesidad. En esta charla explicaremos el funcionamiento del paquete y haremos un taller sobre cómo utilizar sus funciones, contestando las dudas que surjan. El paquete está disponible para su uso de manera abierta en GitHub, y cuenta con un tutorial de uso.
+
+    -   Tutorial de labeleR: <https://ecologyr.github.io/labeleR/>
+
+    -   Repositorio para empezar: <https://github.com/juliagdealedo/labeleR_workshop>
+
+    -   Fecha: 25 Enero 2024
 
 <br>
 
