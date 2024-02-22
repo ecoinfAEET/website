@@ -13,7 +13,7 @@ Las Notas Ecoinformáticas son artículos breves sobre temas de ecoinformática 
 
 Las notas deben tener una longitud máxima de 1500 palabras, y pueden incluir figuras y/o tablas (para contribuciones más largas pueden considerarse otros [tipos de artículo permitidos en la revista](http://www.revistaecosistemas.net/index.php/ecosistemas/about/submissions#authorGuidelines)). Deben seguirse las [instrucciones para autores de Notas](http://www.revistaecosistemas.net/index.php/ecosistemas/about/submissions#authorGuidelines) de la revista Ecosistemas, con la excepción de que las *Notas Ecoinformáticas* pueden llegar hasta unas 1500 palabras y no se necesita resumen (abstract).
 
-Idealmente las notas deber dar una visión general para no especialistas. Más que un tratado exhaustivo, se recomienda el uso de ejemplos (i.e. mostrando código) y referencias a la literatura o tutoriales especializados para el que quiera saber más. En caso de incluir código de R, éste debe seguir las normas de estilo especificadas [aquí](http://adv-r.had.co.nz/Style.html).
+Idealmente las notas deber dar una visión general para ecólogos no especialistas en ecoinformática. Más que un tratado exhaustivo, se recomienda el uso de ejemplos (es decir, mostrando código) y referencias a la literatura o tutoriales especializados para quien quiera saber más. En caso de incluir código de R, éste debe seguir las normas de estilo especificadas [aquí](http://adv-r.had.co.nz/Style.html).
 
 La sección de Notas Ecoinformáticas está coordinada por [Verónica Cruz Alonso](https://twitter.com/veruitter) y [Julen Astigarraga](https://twitter.com/j_astigarraga), miembros del [grupo de trabajo de Ecoinformática](https://ecoinfaeet.github.io/website) de la [AEET](http://www.aeet.org).
 
