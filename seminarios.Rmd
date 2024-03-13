@@ -170,6 +170,16 @@ output:
 
     -   Fecha: 25 Enero 2024
 
+## Seminario 14. ¿Qué información puedo obtener de los datos PNOA-LiDAR?
+
+-   [¿Qué información puedo obtener de los datos abiertos PNOA-LiDAR para caracterizar mi zona de estudio?](https://www.youtube.com/watch?v=vzjqLjKOPPM)
+
+    -   Impartido por: Marina Rodes-Blanco, Universidad de Alcalá
+
+    -   Resumen:  LiDAR es una técnica de teledetección activa que utiliza la luz de un láser y registra coordenadas tridimensionales de la superficie de la tierra. El proyecto PNOA-LiDAR captura, a nivel nacional, esta información mediante sensores aerotransportados y pone los datos a disposición en el portal de descargas del IGN de manera totalmente gratuita. El objetivo de este seminario es explicar las características generales de este tipo de datos, los formatos en los que se encuentra y la utilización del paquete lidR para extraer información del terreno y de la masa arbórea con la finalidad de caracterizar un área de estudio determinada.
+
+    -   Fecha: 13 Marzo 2024
+
 <br>
 
 ```{r out.width='100%', fig.height=1, echo=FALSE}
