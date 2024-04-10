@@ -179,6 +179,17 @@ output:
     -   Resumen:  LiDAR es una técnica de teledetección activa que utiliza la luz de un láser y registra coordenadas tridimensionales de la superficie de la tierra. El proyecto PNOA-LiDAR captura, a nivel nacional, esta información mediante sensores aerotransportados y pone los datos a disposición en el portal de descargas del IGN de manera totalmente gratuita. El objetivo de este seminario es explicar las características generales de este tipo de datos, los formatos en los que se encuentra y la utilización del paquete lidR para extraer información del terreno y de la masa arbórea con la finalidad de caracterizar un área de estudio determinada.
 
     -   Fecha: 13 Marzo 2024
+    
+## Seminario 15. Inferir rango de distribución a partir de diversidad genética    
+
+-   [Inferencias de rango a partir de la distribución geográfica de la diversidad genética de las especies](https://www.youtube.com/watch?v=KLN2wMnivVA)
+
+    -   Impartido por: Alejandro Llanos-Garrido, Universidad Complutense de Madrid
+
+    -   Resumen: Durante la expansión histórica del rango de distribución de una especie, los individuos que van colonizando nuevos ambientes se enfrentan a diferentes retos ecológicos. Lo capaces que son esos individuos de tener éxito en la expansión debe depender inequívocamente de lo adaptados que estén a los nuevos ambientes. Las herramientas de las que dispone un individuo para sobreponerse a estos retos se traducen en diversidad genética adaptativa. Por tanto, los rangos de distribución de una especie deben estar estrechamente relacionados con la cantidad total de variación genética adaptativa de esa especie.
+En este seminario, a partir de genomas de unas pocas poblaciones que ocupen un gradiente climático representativo del rango de distribución de una especie, identificaremos la porción de diversidad genética sujeta a selección natural (i.e., responsable de adaptaciones), y lo relacionaremos con la diversidad ambiental que ocupa. Extrapolando el modelo que surja de establecer esa relación, es posible saber qué ambientes puede ocupar una cantidad de diversidad genética adaptativa concreta, inferir el rango de distribución de la especie a partir de esta información y conocer los determinantes intrínsecos a la especie que restringen o favorecen la expansión o contracción de su rango.
+
+    -   Fecha: 9 Abril 2024
 
 <br>
 
