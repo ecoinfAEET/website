@@ -1,0 +1,25 @@
+---
+title: "I Jornadas de Ecoinformática de la AEET"
+output:
+  html_document:
+    toc: true
+    css: styles.css
+---
+
+<br>
+
+Nos hace ilusión informaros que estamos organizando las primeras jornadas ecoinformáticas de la AEET.
+
+El propósito principal de las jornadas es crear un espacio para que los miembros del grupo de Ecoinformática y otras personas interesadas en manejo y análisis de datos, modelización o programación, puedan intercambiar investigaciones en ecología con un fuerte componente de análisis, avances metodológicos, herramientas informáticas e ideas innovadoras y así facilitar la colaboración interdisciplinar y el aprendizaje conjunto.
+
+Las jornadas tendrán lugar del **24 al 25 de Octubre en Alcalá de Henares** y ya están abiertas las inscripciones.
+
+Para más información visita la página web de las jornadas: <https://ecoinf.quarto.pub/iecoinf/>
+
+¡Os animamos a todos a participar!
+
+<br>
+
+```{r out.width='100%', fig.height=1, echo=FALSE}
+knitr::include_graphics("ecoinf_10.jpg")
+```

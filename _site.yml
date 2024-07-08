@@ -23,6 +23,8 @@ navbar:
           href: activ_reproducibilidad.html
         - text: "Actividades MEDECOS 2017"
           href: activ_medecos2017.html
+    - text: "I Jornadas de Ecoinformática"
+      href: jornadas.html
 
   right:
     - icon: fa-users
