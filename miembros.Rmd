@@ -2,7 +2,7 @@
 title: "Miembros"
 ---
 
-Miembros del [grupo de Ecoinformática](http://www.aeet.org/es/gruposdetrabajo/ecoinformatica.html) de la [Asociación Española de Ecología Terrestre (AEET)](http://www.aeet.org/). 
+Miembros del [grupo de Ecoinformática](http://www.aeet.org/es/gruposdetrabajo/ecoinformatica.html) de la [Asociación Española de Ecología Terrestre (AEET)](https://www.aeet.org/es/). 
 
 Para darte de alta rellena tus datos [aquí](https://docs.google.com/forms/d/e/1FAIpQLScCIlXvN2LtOkj1MNFPK-UzTfkK8jg5ZMXT0OgjyUUJdndo2Q/viewform?c=0&w=1). Si quieres actualizar o corregir un error en los datos por favor abre un 'issue' [en el repo](https://github.com/ecoinfAEET/website), haz un 'pull request' sobre el fichero de datos ([MembersInfo.csv](https://github.com/ecoinfAEET/website/blob/master/MembersInfo.csv)) o escribe a ecoinf.aeet@gmail.com.
 

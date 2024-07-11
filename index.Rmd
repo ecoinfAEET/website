@@ -12,7 +12,7 @@ knitr::include_graphics("ecoinf_10.jpg")
 
 La ecología actual tiene casi siempre un componente importante de computación. Desde un sencillo análisis estadístico de datos hasta la realización de simulaciones estocásticas complejas, casi todos los ecólogos necesitan interaccionar en mayor o menor medida con una computadora. Sin embargo, la formación de los ecólogos en aspectos tales como el manejo de bases de datos, análisis de datos, modelización, programación, etc. ha sido tradicionalmente muy deficiente. Esto no sólo acarrea retrasos y problemas en la ejecución de los proyectos de investigación, sino que también limita el potencial y alcance de los mismos.
 
-El **grupo de trabajo de Ecoinformática** de la [Asociación Española de Ecología Terrestre (AEET)](www.aeet.org) pretende fomentar el intercambio de experiencias y conocimientos sobre cualquier aspecto relacionado con la ecoinformática, además de contribuir a la formación de los nuevos ecólogos en buenas prácticas y técnicas de computación que les permitan desarrollar al máximo sus proyectos de investigación.
+El **grupo de trabajo de Ecoinformática** de la [Asociación Española de Ecología Terrestre (AEET)](https://www.aeet.org/es/) pretende fomentar el intercambio de experiencias y conocimientos sobre cualquier aspecto relacionado con la ecoinformática, además de contribuir a la formación de los nuevos ecólogos en buenas prácticas y técnicas de computación que les permitan desarrollar al máximo sus proyectos de investigación.
 
 <br>
 
