@@ -21,6 +21,10 @@ La sección de Notas Ecoinformáticas está coordinada por [Verónica Cruz Alons
 
 ## Notas Ecoinformáticas publicadas {#notas-publicadas}
 
+-   [Tidyverse: colección de paquetes de R para la ciencia de datos](https://doi.org/10.7818/ECOS.2745)
+
+-   [Camelot: Una herramienta intuitiva para el manejo y procesamiento de imágenes de cámaras trampa utilizando inteligencia artificial](https://doi.org/10.7818/ECOS.2797)
+
 -   [La unión hace la fuerza: modelos de distribución de especies integrando diferentes fuentes de datos](https://doi.org/10.7818/ECOS.2527)
 
 -   [¡Se puede entender cómo funcionan Git y GitHub!](https://doi.org/10.7818/ECOS.2332)
