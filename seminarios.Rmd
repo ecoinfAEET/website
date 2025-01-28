@@ -208,6 +208,16 @@ output:
         -   <https://huggingface.co/docs/transformers/model_doc/grounding-dino>
         -   <https://aiforconservation.slack.com/join/shared_invite/zt-2jxl41cwx-TBbsOOcvTEvh0JKdu5JaJg#/shared-invite/email>
 
+## Seminario 17. BlueCarbon R package: get carbon stocks and sequestration rates
+
+-   [BlueCarbon R package: get stocks and sequestration rates estimations directly from raw laboratory data](https://www.youtube.com/watch?v=XCrrR3_MSHc)
+
+    -   Impartido por: Nerea Piñeiro Juncal
+
+    -   Resumen: The goal of the BlueCarbon R package is to facilitate the estimation of organic carbon stocks and sequestration rates from soil/sediment cores from blue carbon ecosystems. It can also be used to estimate stocks for any soil/sediment data, and to estimate sequestration rates for any soil/sediment data from depositional environments. It contains seven main functions to estimate the compaction of cores, mathematically correct core compaction, estimate sample thickness, estimate organic carbon content from organic matter content, estimate organic carbon stocks and sequestration rates and visualize the error of stock extrapolation. In this webinar we will learn how each function works and how to use them to obtain stocks and sequestration rates estimations directly from raw laboratory data. This R package is openly available in GitHub: https://ecologyr.github.io/BlueCarbon/ 
+
+    -   Fecha: 28 enero 2025
+
 <br>
 
 ```{r out.width='100%', fig.height=1, echo=FALSE}
